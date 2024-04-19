@@ -29,4 +29,4 @@
 - 블로그 - [Antifragile Domain : 네이버 블로그 (naver.com)](https://blog.naver.com/quantdaddy)
 - 교재 - (https://product.kyobobook.co.kr/detail/S000061897998)
 
-- [활동 기록](%E1%84%8B%E1%85%A7%E1%86%AF%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%91%E1%85%A6%E1%84%8B%E1%85%B5%20%E1%84%89%E1%85%B3%E1%84%90%E1%85%A5%E1%84%83%E1%85%B5(%E1%84%80%E1%85%B3%E1%86%B7%E1%84%8B%E1%85%B2%E1%86%BC%20%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%80%E1%85%A9%E1%86%BC%E1%84%8C%E1%85%B5%E1%84%82%E1%85%B3%E1%86%BC)%204ba3d5ef62934312a8fff6fd078b8035/%E1%84%92%E1%85%AA%E1%86%AF%E1%84%83%E1%85%A9%E1%86%BC%20%E1%84%80%E1%85%B5%E1%84%85%E1%85%A9%E1%86%A8%20731cf125b42740b8b9088cac0e99f7bd.csv)
+- [활동 기록](https://proud-may-09b.notion.site/4ba3d5ef62934312a8fff6fd078b8035?pvs=4)
