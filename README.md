@@ -26,7 +26,6 @@
 ### 스터디 주제
 - 금융 도메인 지식 습득과 더불어서 인공지능 모델 구현
     - 금융 데이터 기반 알고리즘 트레이딩
-- 블로그 - [Antifragile Domain : 네이버 블로그 (naver.com)](https://blog.naver.com/quantdaddy)
 - 교재 - (https://product.kyobobook.co.kr/detail/S000061897998)
 
 - [활동 기록](https://proud-may-09b.notion.site/4ba3d5ef62934312a8fff6fd078b8035?pvs=4)
